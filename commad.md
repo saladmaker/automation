@@ -1,4 +1,7 @@
-
+# docker compose build command:
+```shell
+docker compose build --no-cache mailserver roundcube
+```
 # docker  run nginx with volume mapping
 ```shell 
   docker run -d \
